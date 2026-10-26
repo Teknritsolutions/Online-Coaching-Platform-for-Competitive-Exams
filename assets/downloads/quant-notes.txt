@@ -1,0 +1,13 @@
+PERCENTAGE ESSENTIALS
+Original Aurevia sample learning notes
+
+A percentage is a fraction out of 100.
+20% = 20/100 = 1/5.
+To find p% of x, multiply x by p/100.
+Example: 15% of 200 = 30.
+
+Percentage change = (new - original) / original x 100.
+A value increasing from 80 to 100 rises by 25%.
+
+Practice: A number rises by 20% to become 240.
+Answer: 240 / 1.2 = 200.

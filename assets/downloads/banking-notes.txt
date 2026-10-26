@@ -1,0 +1,11 @@
+BANKING FUNDAMENTALS
+Original Aurevia sample learning notes
+
+RBI stands for Reserve Bank of India.
+A central bank performs functions distinct from a commercial bank.
+Simple interest = principal x annual rate x time / 100.
+
+Example: Simple interest on 1,000 at 5% for 2 years is 100.
+
+This short file is general educational sample content, not financial guidance
+or an official examination syllabus. Check official exam notices for current requirements.

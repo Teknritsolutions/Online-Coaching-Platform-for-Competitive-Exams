@@ -1,0 +1,268 @@
+[
+  {
+    "name": "collaborative-learning",
+    "category": "learning",
+    "file": "assets/images/enhancements/collaborative-learning.webp",
+    "source": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "campus-discussion",
+    "category": "learning",
+    "file": "assets/images/enhancements/campus-discussion.webp",
+    "source": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "group-workshop",
+    "category": "teaching",
+    "file": "assets/images/enhancements/group-workshop.webp",
+    "source": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "classroom-learning",
+    "category": "teaching",
+    "file": "assets/images/enhancements/classroom-learning.webp",
+    "source": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "academic-notes",
+    "category": "study",
+    "file": "assets/images/enhancements/academic-notes.webp",
+    "source": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "study-review",
+    "category": "study",
+    "file": "assets/images/enhancements/study-review.webp",
+    "source": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "mathematics-practice",
+    "category": "study",
+    "file": "assets/images/enhancements/mathematics-practice.webp",
+    "source": "https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "learning-session",
+    "category": "learning",
+    "file": "assets/images/enhancements/learning-session.webp",
+    "source": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "university-lecture",
+    "category": "teaching",
+    "file": "assets/images/enhancements/university-lecture.webp",
+    "source": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "academic-books",
+    "category": "library",
+    "file": "assets/images/enhancements/academic-books.webp",
+    "source": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "library-interior",
+    "category": "library",
+    "file": "assets/images/enhancements/library-interior.webp",
+    "source": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "reference-books",
+    "category": "library",
+    "file": "assets/images/enhancements/reference-books.webp",
+    "source": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "reading-time",
+    "category": "library",
+    "file": "assets/images/enhancements/reading-time.webp",
+    "source": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "quiet-reading",
+    "category": "library",
+    "file": "assets/images/enhancements/quiet-reading.webp",
+    "source": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "academic-celebration",
+    "category": "campus",
+    "file": "assets/images/enhancements/academic-celebration.webp",
+    "source": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "notebook-reflection",
+    "category": "study",
+    "file": "assets/images/enhancements/notebook-reflection.webp",
+    "source": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "online-study",
+    "category": "learning",
+    "file": "assets/images/enhancements/online-study.webp",
+    "source": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "digital-learning",
+    "category": "learning",
+    "file": "assets/images/enhancements/digital-learning.webp",
+    "source": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "laptop-workspace",
+    "category": "study",
+    "file": "assets/images/enhancements/laptop-workspace.webp",
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "weekly-planning",
+    "category": "planning",
+    "file": "assets/images/enhancements/weekly-planning.webp",
+    "source": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "desk-and-notebook",
+    "category": "planning",
+    "file": "assets/images/enhancements/desk-and-notebook.webp",
+    "source": "https://images.unsplash.com/photo-1473091534298-04dcbce3278c?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "revision-notebook",
+    "category": "study",
+    "file": "assets/images/enhancements/revision-notebook.webp",
+    "source": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "study-tools",
+    "category": "study",
+    "file": "assets/images/enhancements/study-tools.webp",
+    "source": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "library-shelves",
+    "category": "library",
+    "file": "assets/images/enhancements/library-shelves.webp",
+    "source": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "college-community",
+    "category": "campus",
+    "file": "assets/images/enhancements/college-community.webp",
+    "source": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "team-discussion",
+    "category": "learning",
+    "file": "assets/images/enhancements/team-discussion.webp",
+    "source": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "chemistry-notes",
+    "category": "science",
+    "file": "assets/images/enhancements/chemistry-notes.webp",
+    "source": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "engineering-lab",
+    "category": "science",
+    "file": "assets/images/enhancements/engineering-lab.webp",
+    "source": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "library-aisle",
+    "category": "library",
+    "file": "assets/images/enhancements/library-aisle.webp",
+    "source": "https://images.unsplash.com/photo-1507738978512-35798112892c?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "exam-notebook",
+    "category": "study",
+    "file": "assets/images/enhancements/exam-notebook.webp",
+    "source": "https://images.unsplash.com/photo-1510936111840-65e151ad71bb?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "book-and-pencil",
+    "category": "study",
+    "file": "assets/images/enhancements/book-and-pencil.webp",
+    "source": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "morning-reading",
+    "category": "library",
+    "file": "assets/images/enhancements/morning-reading.webp",
+    "source": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "study-library",
+    "category": "library",
+    "file": "assets/images/enhancements/study-library.webp",
+    "source": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "learning-books",
+    "category": "library",
+    "file": "assets/images/enhancements/learning-books.webp",
+    "source": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "research-learning",
+    "category": "science",
+    "file": "assets/images/enhancements/research-learning.webp",
+    "source": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "creative-planning",
+    "category": "planning",
+    "file": "assets/images/enhancements/creative-planning.webp",
+    "source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "preparation-desk",
+    "category": "planning",
+    "file": "assets/images/enhancements/preparation-desk.webp",
+    "source": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "reading-break",
+    "category": "library",
+    "file": "assets/images/enhancements/reading-break.webp",
+    "source": "https://images.unsplash.com/photo-1519682577862-22b62b24e493?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  }
+]

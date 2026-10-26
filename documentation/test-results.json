@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-26T16:25:27.519Z",
+  "static": {
+    "pages": 68,
+    "localReferences": 2521,
+    "imagePlacements": 87,
+    "sectionCounts": "passed",
+    "singleH1": "passed",
+    "duplicateIds": "none"
+  },
+  "scoring": [
+    "All correct: 20/20",
+    "All incorrect: -5/20",
+    "All unattempted: 0/20",
+    "One correct + one incorrect: 1.5/20",
+    "Invalid response treated as unanswered",
+    "Invalid persisted draft rejected"
+  ],
+  "workflow": [
+    "Registration validates and opens student overview; password is not persisted",
+    "Category and text filtering, including empty state",
+    "Course-specific content, local enrollment and lesson completion",
+    "Complete timed test journey: selected responses survive reload, review, clear, submit, score 1.5/20 = 1 correct / 1 incorrect / 8 unanswered",
+    "Question-wise answers, explanations and active time render",
+    "All six responsive student charts and accessible data tables render",
+    "Expired persisted deadline automatically submits on reload; submitted drafts remain cleared",
+    "Admin search, add, edit, delete, modal confirmation and empty table",
+    "Instructor sample lesson notes update and persist",
+    "Schedule view toggle and browser-local reservation",
+    "Mobile navigation, expandable dropdown and Escape dismissal",
+    "Persistent theme and RTL layout"
+  ],
+  "responsive": {
+    "cases": 2040,
+    "widths": [
+      320,
+      360,
+      375,
+      390,
+      420,
+      425,
+      480,
+      640,
+      768,
+      820,
+      1024,
+      1280,
+      1440,
+      1600,
+      1920
+    ],
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "failures": []
+  },
+  "errors": []
+}

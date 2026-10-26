@@ -1,0 +1,15 @@
+{
+  "brand": "Aurevia Academy",
+  "navigationOrder": "passed",
+  "homeHover": "passed",
+  "activeUnderlines": "passed",
+  "themeIconsAndPersistence": "passed",
+  "rtlControls": "passed",
+  "footerType": "passed",
+  "responsiveHeader": "passed",
+  "mobileNavigation": "passed",
+  "svgSocialIcons": "passed",
+  "footerRemovals": "passed",
+  "loginLast": "passed",
+  "navigationNearBrand": "passed"
+}

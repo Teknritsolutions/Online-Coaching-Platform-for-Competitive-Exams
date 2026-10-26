@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Student Progress | Aurevia Academy</title>
+    <meta
+      name="description"
+      content="Student Progress: explore structured exam preparation, purposeful practice, and thoughtful learning at Aurevia. Front-end demo template."
+    />
+    <meta property="og:title" content="Student Progress | Aurevia Academy" />
+    <meta
+      property="og:description"
+      content="Prepare with purpose. Explore the Aurevia coaching demonstration."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="../../assets/images/home-one-hero.webp" />
+    <link rel="canonical" href="https://example.com/aurevia/dashboard/instructor/students.html" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="icon" href="../../assets/images/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="../../assets/images/apple-touch-icon.png" />
+    <script src="../../assets/js/theme.js"></script>
+    <link
+      rel="preload"
+      href="../../assets/fonts/inter-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link rel="stylesheet" href="../../assets/css/style.css" />
+    <link rel="stylesheet" href="../../assets/css/visual-refresh.css" />
+    <link rel="stylesheet" href="../../assets/css/app-shell.css" />
+    <script src="../../assets/vendor/chart.umd.min.js" defer></script>
+    <script type="module" src="../../assets/js/main.js"></script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Student Progress",
+        "description": "Aurevia educational template demonstration"
+      }
+    </script>
+  </head>
+  <body class="dashboard">
+    <a class="skip" href="#main">Skip to main content</a>
+    <aside class="sidebar" id="dashboard-nav">
+      <a class="brand" href="../../pages/index.html" aria-label="Aurevia Academy home">
+        <svg class="brand-mark" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+          <path
+            d="M24 3 43 10v14c0 11-9 17-19 21C14 41 5 35 5 24V10L24 3Z"
+            fill="#142D4E"
+            stroke="#C59B53"
+            stroke-width="1.8"
+          />
+          <path
+            d="M13 16c4-1 8 0 11 3 3-3 7-4 11-3v15c-4-1-8 0-11 3-3-3-7-4-11-3V16Z"
+            stroke="#F2D59C"
+            stroke-width="1.7"
+            stroke-linejoin="round"
+          />
+          <path
+            d="M24 19v15M17 21l3 1M17 25l3 1M28 22l3-1M28 26l3-1"
+            stroke="#F2D59C"
+            stroke-width="1.5"
+            stroke-linecap="round"
+          />
+        </svg>
+        <span>
+          Aurevia
+          <small>ACADEMY</small>
+        </span>
+      </a>
+      <div class="sidebar-label">instructor workspace · demo</div>
+      <nav aria-label="instructor navigation">
+        <a href="index.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h7v7h-7z" />
+          </svg>
+          Overview
+        </a>
+        <a href="courses.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M3 4h7l2 2 2-2h7v15h-7l-2 2-2-2H3zM12 6v15" />
+          </svg>
+          Assigned Courses
+        </a>
+        <a href="content.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M5 3h10l4 4v14H5zM14 3v5h5M8 12h8M8 16h8" />
+          </svg>
+          Course Content
+        </a>
+        <a href="questions.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M4 3v18h17M8 16l4-6 4 3 5-8" />
+          </svg>
+          Question Management
+        </a>
+        <a href="students.html" aria-current="page">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18M12 7v5l3 2" />
+          </svg>
+          Student Progress
+        </a>
+        <a href="results.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path
+              d="M16 21v-4a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v4M9 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6M22 21v-4a4 4 0 0 0-3-4M16 3a3 3 0 0 1 0 6"
+            />
+          </svg>
+          Mock Test Results
+        </a>
+        <a href="live-classes.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h7v7h-7z" />
+          </svg>
+          Live Class Schedule
+        </a>
+        <a href="announcements.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M3 4h7l2 2 2-2h7v15h-7l-2 2-2-2H3zM12 6v15" />
+          </svg>
+          Announcements
+        </a>
+        <a href="profile.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M5 3h10l4 4v14H5zM14 3v5h5M8 12h8M8 16h8" />
+          </svg>
+          Instructor Profile
+        </a>
+        <a href="settings.html">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M4 3v18h17M8 16l4-6 4 3 5-8" />
+          </svg>
+          Settings
+        </a>
+      </nav>
+      <div class="sidebar-bottom">
+        <nav>
+          <a href="../../pages/index.html">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M5 12h14M14 7l5 5-5 5" />
+            </svg>
+            Back to website
+          </a>
+          <a href="../../pages/login.html" data-logout>
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path
+                d="M16 21v-4a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v4M9 9a3 3 0 1 0 0-6 3 3 0 0 0 0 6M22 21v-4a4 4 0 0 0-3-4M16 3a3 3 0 0 1 0 6"
+              />
+            </svg>
+            Switch demo role
+          </a>
+        </nav>
+      </div>
+    </aside>
+    <div class="dashboard-shell">
+      <header class="dash-top">
+        <div class="row">
+          <button
+            class="icon-button menu-toggle"
+            data-sidebar-toggle
+            aria-label="Toggle dashboard navigation"
+            aria-controls="dashboard-nav"
+            aria-expanded="false"
+          >
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+          <span class="small muted">
+            Instructor workspace
+            <span class="pill">DEMO</span>
+          </span>
+        </div>
+        <div class="row">
+          <button
+            class="icon-button theme-button"
+            data-theme-toggle
+            aria-label="Switch color theme"
+            aria-pressed="false"
+          >
+            <svg class="icon theme-sun" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1 1M18 18l1 1M5 19l1-1M18 6l1-1"
+              /></svg
+            ><svg class="icon theme-moon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20.5 13.2A8.6 8.6 0 0 1 10.8 3.5a8.7 8.7 0 1 0 9.7 9.7Z" />
+            </svg>
+          </button>
+          <button
+            class="icon-button direction-button"
+            data-dir-toggle
+            aria-label="Switch to right-to-left layout"
+            aria-pressed="false"
+          >
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M4 7h16m-4-4 4 4-4 4M20 17H4m4-4-4 4 4 4" />
+            </svg>
+            <span data-dir-label>RTL</span>
+          </button>
+          <a href="announcements.html" class="icon-button" aria-label="Notifications">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M6 8a6 6 0 0 1 12 0v8l2 2H4l2-2V8M10 21h4" />
+            </svg>
+          </a>
+          <a href="profile.html" class="row">
+            <span class="profile-circle">AS</span>
+            <span class="small profile-name" data-profile-name>Ananya Sharma</span>
+          </a>
+        </div>
+      </header>
+      <main
+        class="dash-main"
+        id="main"
+        data-dashboard-role="instructor"
+        data-dashboard-page="students"
+      >
+        <div class="breadcrumb">
+          <a href="index.html">Workspace</a>
+          <span>/</span>
+          <span>Student Progress</span>
+        </div>
+        <div class="dash-heading row between">
+          <div>
+            <h1>Student Progress</h1>
+            <p>Make room for progress. Your instructor workspace, thoughtfully organized.</p>
+          </div>
+          <span class="pill">BROWSER-LOCAL DEMONSTRATION</span>
+        </div>
+        <div id="dashboard-content" aria-live="polite"><p>Preparing your demo workspace…</p></div>
+        <p class="demo-label">
+          Fictional demo data · Browser-local storage · No real payments, secure authentication, or
+          live class service.
+        </p>
+      </main>
+    </div>
+    <button class="icon-button back-top" data-back-top aria-label="Back to top">
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M12 19V5m-5 5 5-5 5 5" />
+      </svg>
+    </button>
+    <div class="toast" role="status" hidden></div>
+    <dialog id="app-dialog">
+      <div class="dialog-head">
+        <h2 id="dialog-title">Details</h2>
+        <button class="icon-button" data-close-dialog aria-label="Close dialog">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M6 6l12 12M6 18 18 6" />
+          </svg>
+        </button>
+      </div>
+      <div id="dialog-content"></div>
+    </dialog>
+  </body>
+</html>

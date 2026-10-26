@@ -1,0 +1,155 @@
+{
+  "public": [
+    {
+      "file": "pages/index.html",
+      "title": "Prepare with purpose. Achieve with confidence."
+    },
+    {
+      "file": "pages/home-2.html",
+      "title": "A thoughtful path to your next opportunity"
+    },
+    {
+      "file": "pages/about.html",
+      "title": "A better learning journey, by design"
+    },
+    {
+      "file": "pages/courses.html",
+      "title": "Find your preparation program"
+    },
+    {
+      "file": "pages/banking-exams.html",
+      "title": "Banking exam preparation"
+    },
+    {
+      "file": "pages/ssc-exams.html",
+      "title": "SSC exam preparation"
+    },
+    {
+      "file": "pages/railways-exams.html",
+      "title": "Railways exam preparation"
+    },
+    {
+      "file": "pages/engineering-exams.html",
+      "title": "Engineering exam preparation"
+    },
+    {
+      "file": "pages/course-details.html",
+      "title": "Program details & enrollment"
+    },
+    {
+      "file": "pages/faculty.html",
+      "title": "Meet your mentors"
+    },
+    {
+      "file": "pages/faculty-details.html",
+      "title": "Instructor profile"
+    },
+    {
+      "file": "pages/results.html",
+      "title": "Learning journeys & sample results"
+    },
+    {
+      "file": "pages/fees.html",
+      "title": "Clear plans for purposeful preparation"
+    },
+    {
+      "file": "pages/mock-tests.html",
+      "title": "Practice with perspective"
+    },
+    {
+      "file": "pages/study-materials.html",
+      "title": "Notes for a stronger foundation"
+    },
+    {
+      "file": "pages/previous-papers.html",
+      "title": "Previous-year paper resource directory"
+    },
+    {
+      "file": "pages/live-classes.html",
+      "title": "A classroom wherever you learn"
+    },
+    {
+      "file": "pages/blog.html",
+      "title": "The preparation journal"
+    },
+    {
+      "file": "pages/blog-details.html",
+      "title": "A practical preparation journal article"
+    },
+    {
+      "file": "pages/contact.html",
+      "title": "Let’s find your next step"
+    },
+    {
+      "file": "pages/login.html",
+      "title": "Welcome back."
+    },
+    {
+      "file": "pages/register.html",
+      "title": "Your next chapter starts here."
+    },
+    {
+      "file": "pages/forgot-password.html",
+      "title": "Let’s get you back on track."
+    },
+    {
+      "file": "pages/404.html",
+      "title": "Page not found"
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "title": "A new chapter is on its way"
+    },
+    {
+      "file": "pages/privacy.html",
+      "title": "Privacy Policy"
+    },
+    {
+      "file": "pages/terms.html",
+      "title": "Terms & Conditions"
+    }
+  ],
+  "dashboard": [
+    "dashboard/student/index.html",
+    "dashboard/student/my-courses.html",
+    "dashboard/student/lesson.html",
+    "dashboard/student/mock-tests.html",
+    "dashboard/student/test-instructions.html",
+    "dashboard/student/attempt-test.html",
+    "dashboard/student/test-submit.html",
+    "dashboard/student/test-results.html",
+    "dashboard/student/answer-analysis.html",
+    "dashboard/student/analytics.html",
+    "dashboard/student/study-materials.html",
+    "dashboard/student/previous-papers.html",
+    "dashboard/student/live-classes.html",
+    "dashboard/student/notifications.html",
+    "dashboard/student/profile.html",
+    "dashboard/student/settings.html",
+    "dashboard/admin/index.html",
+    "dashboard/admin/students.html",
+    "dashboard/admin/faculty.html",
+    "dashboard/admin/courses.html",
+    "dashboard/admin/questions.html",
+    "dashboard/admin/mock-tests.html",
+    "dashboard/admin/results.html",
+    "dashboard/admin/live-classes.html",
+    "dashboard/admin/materials.html",
+    "dashboard/admin/payments.html",
+    "dashboard/admin/messages.html",
+    "dashboard/admin/notifications.html",
+    "dashboard/admin/reports.html",
+    "dashboard/admin/profile.html",
+    "dashboard/admin/settings.html",
+    "dashboard/instructor/index.html",
+    "dashboard/instructor/courses.html",
+    "dashboard/instructor/content.html",
+    "dashboard/instructor/questions.html",
+    "dashboard/instructor/students.html",
+    "dashboard/instructor/results.html",
+    "dashboard/instructor/live-classes.html",
+    "dashboard/instructor/announcements.html",
+    "dashboard/instructor/profile.html",
+    "dashboard/instructor/settings.html"
+  ]
+}

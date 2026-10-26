@@ -1,0 +1,100 @@
+[
+  {
+    "file": "pages/index.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 29,
+    "incomplete": 1
+  },
+  {
+    "file": "pages/register.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 30,
+    "incomplete": 0
+  },
+  {
+    "file": "pages/courses.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 31,
+    "incomplete": 1
+  },
+  {
+    "file": "pages/contact.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 29,
+    "incomplete": 1
+  },
+  {
+    "file": "dashboard/student/index.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 28,
+    "incomplete": 0
+  },
+  {
+    "file": "dashboard/admin/students.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 24,
+    "incomplete": 0
+  },
+  {
+    "file": "dashboard/student/test-instructions.html",
+    "theme": "light",
+    "violations": [],
+    "passes": 26,
+    "incomplete": 0
+  },
+  {
+    "file": "pages/index.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 29,
+    "incomplete": 1
+  },
+  {
+    "file": "pages/register.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 30,
+    "incomplete": 0
+  },
+  {
+    "file": "pages/courses.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 31,
+    "incomplete": 1
+  },
+  {
+    "file": "pages/contact.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 29,
+    "incomplete": 1
+  },
+  {
+    "file": "dashboard/student/index.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 28,
+    "incomplete": 0
+  },
+  {
+    "file": "dashboard/admin/students.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 24,
+    "incomplete": 0
+  },
+  {
+    "file": "dashboard/student/test-instructions.html",
+    "theme": "dark",
+    "violations": [],
+    "passes": 26,
+    "incomplete": 0
+  }
+]

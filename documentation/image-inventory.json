@@ -1,0 +1,537 @@
+[
+  {
+    "name": "achievement.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Three Indian young adult students in a bright campus library quietly celebrating a completed practice milestone. Candid academic editorial photography, muted cream navy and green, no specific scores, certificates, logos or text."
+  },
+  {
+    "name": "mock-experience.webp",
+    "source": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "enrollment.webp",
+    "source": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "learning-features.webp",
+    "source": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "faculty-quant.webp",
+    "source": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Stock illustrative portrait; fictional demo identity, no endorsement."
+  },
+  {
+    "name": "faculty-reasoning.webp",
+    "source": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Stock illustrative portrait; fictional demo identity, no endorsement."
+  },
+  {
+    "name": "faculty-english.webp",
+    "source": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Stock illustrative portrait; fictional demo identity, no endorsement."
+  },
+  {
+    "name": "faculty-physics.webp",
+    "source": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Stock illustrative portrait; fictional demo identity, no endorsement."
+  },
+  {
+    "name": "blog-study-plan.webp",
+    "source": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "blog-quant.webp",
+    "source": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "blog-review.webp",
+    "source": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "blog-affairs.webp",
+    "source": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "article-feature.webp",
+    "source": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "auth-login.webp",
+    "source": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "auth-register.webp",
+    "source": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "auth-recovery.webp",
+    "source": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "live-class.webp",
+    "source": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "note": "Illustrative education photograph; no achievement endorsement."
+  },
+  {
+    "name": "our-story.webp",
+    "source": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1000&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license"
+  },
+  {
+    "name": "home-one-hero.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Two Indian university students preparing competitive examinations together at an oak desk in a sunlit library, natural editorial photography, navy and cream, no logos or text."
+  },
+  {
+    "name": "home-two-hero.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Indian woman independently studying engineering entrance mathematics in a quiet university reading room, navy cardigan, natural editorial photography, no logos or text."
+  },
+  {
+    "name": "banking-course.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Landscape realistic editorial academic photography. Indian banking exam aspirant at an oak desk with calculator and quantitative aptitude notebook. Warm daylight, muted navy and cream, no logos or readable text."
+  },
+  {
+    "name": "ssc-course.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Landscape realistic editorial academic photography. Indian woman studying general knowledge in a calm academic library. Warm daylight, muted navy and cream, no logos or readable text."
+  },
+  {
+    "name": "railway-course.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Landscape realistic editorial academic photography. Indian man working through a reasoning puzzle at a bright study desk. Warm daylight, muted navy and cream, no logos or readable text."
+  },
+  {
+    "name": "engineering-course.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Landscape realistic editorial academic photography. Indian student working through physics and mathematics beside a geometric model. Warm daylight, muted navy and cream, no logos or readable text."
+  },
+  {
+    "name": "enhancements/academic-celebration.webp",
+    "source": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "cta-A stronger tomorrow starts with today."
+  },
+  {
+    "name": "enhancements/academic-notes.webp",
+    "source": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-1-Banking"
+  },
+  {
+    "name": "enhancements/study-review.webp",
+    "source": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-1-SSC"
+  },
+  {
+    "name": "enhancements/collaborative-learning.webp",
+    "source": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-1-Railways"
+  },
+  {
+    "name": "enhancements/chemistry-notes.webp",
+    "source": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-1-Engineering"
+  },
+  {
+    "name": "enhancements/campus-community-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Unique new Stackly academic website image. Diverse young adult Indian university students talking with a mentor in a beautiful contemporary campus library, warm academic community, landscape editorial photograph. Muted navy, cream and teal, realistic people and anatomy, natural daylight, no readable text, no logos, no watermark.",
+    "placement": "hero-ABOUT STACKLY-A better learning journey, by design."
+  },
+  {
+    "name": "enhancements/program-overview.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Unique new Stackly academic website image. A young adult Indian student studying a carefully organized mathematics notebook at a bright modern library desk, laptop and textbooks, landscape editorial academic photo. Muted navy, cream and teal, realistic people and anatomy, natural daylight, no readable text, no logos, no watermark.",
+    "placement": "hero-COURSE CATALOG-Your goal. Your preparation path."
+  },
+  {
+    "name": "enhancements/mathematics-practice.webp",
+    "source": "https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-2-Banking"
+  },
+  {
+    "name": "enhancements/notebook-reflection.webp",
+    "source": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-2-SSC"
+  },
+  {
+    "name": "enhancements/campus-discussion.webp",
+    "source": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-2-Railways"
+  },
+  {
+    "name": "enhancements/engineering-lab.webp",
+    "source": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-2-Engineering"
+  },
+  {
+    "name": "enhancements/laptop-workspace.webp",
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-0-banking"
+  },
+  {
+    "name": "enhancements/revision-notebook.webp",
+    "source": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-1-ssc"
+  },
+  {
+    "name": "enhancements/study-tools.webp",
+    "source": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-2-railways"
+  },
+  {
+    "name": "enhancements/research-learning.webp",
+    "source": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-3-engineering"
+  },
+  {
+    "name": "enhancements/college-community.webp",
+    "source": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "cta-A little guidance goes a long way."
+  },
+  {
+    "name": "enhancements/exam-notebook.webp",
+    "source": "https://images.unsplash.com/photo-1510936111840-65e151ad71bb?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-details-hero"
+  },
+  {
+    "name": "enhancements/mentor-community.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Unique new Stackly academic website image. Three Indian academic tutors in their thirties and forties discussing lesson notes at a sunlit library table, friendly approachable calm scene, landscape editorial photo. Muted navy, cream and teal, realistic people and anatomy, natural daylight, no readable text, no logos, no watermark.",
+    "placement": "hero-OUR FACULTY-Good teaching makes room for understanding."
+  },
+  {
+    "name": "enhancements/group-workshop.webp",
+    "source": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "cta-Meet your mentor in a live session."
+  },
+  {
+    "name": "enhancements/classroom-learning.webp",
+    "source": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-FACULTY PROFILE-Ananya Sharma"
+  },
+  {
+    "name": "enhancements/book-and-pencil.webp",
+    "source": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-4-banking"
+  },
+  {
+    "name": "enhancements/learning-session.webp",
+    "source": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-5-ssc"
+  },
+  {
+    "name": "enhancements/university-lecture.webp",
+    "source": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-6-railways"
+  },
+  {
+    "name": "enhancements/academic-books.webp",
+    "source": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "course-card-7-engineering"
+  },
+  {
+    "name": "enhancements/library-interior.webp",
+    "source": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-SAMPLE RESULTS-Every journey has its turning points."
+  },
+  {
+    "name": "enhancements/reference-books.webp",
+    "source": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-3-Banking"
+  },
+  {
+    "name": "enhancements/reading-time.webp",
+    "source": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-3-SSC"
+  },
+  {
+    "name": "enhancements/online-study.webp",
+    "source": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-3-Railways"
+  },
+  {
+    "name": "enhancements/quiet-reading.webp",
+    "source": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-3-Engineering"
+  },
+  {
+    "name": "enhancements/preparation-planning.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Unique new Stackly academic website image. Indian adult student using a calculator and planning a learning budget in a notebook beside course books at an oak desk, calm thoughtful scene, landscape editorial photograph. Muted navy, cream and teal, realistic people and anatomy, natural daylight, no readable text, no logos, no watermark.",
+    "placement": "hero-PLANS & PRICING-An investment in your next chapter."
+  },
+  {
+    "name": "enhancements/digital-learning.webp",
+    "source": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-4-Banking"
+  },
+  {
+    "name": "enhancements/weekly-planning.webp",
+    "source": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-4-SSC"
+  },
+  {
+    "name": "enhancements/team-discussion.webp",
+    "source": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-4-Railways"
+  },
+  {
+    "name": "enhancements/desk-and-notebook.webp",
+    "source": "https://images.unsplash.com/photo-1473091534298-04dcbce3278c?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "pathway-4-Engineering"
+  },
+  {
+    "name": "enhancements/library-shelves.webp",
+    "source": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-MOCK TESTS-A practice test. A clearer next step."
+  },
+  {
+    "name": "enhancements/revision-library.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Unique new Stackly academic website image. Beautiful academic still life of an open mathematics notebook, neatly stacked books, pencil and revision flashcards in a warm quiet library, landscape editorial photo. Muted navy, cream and teal, realistic people and anatomy, natural daylight, no readable text, no logos, no watermark.",
+    "placement": "hero-STUDY MATERIALS-Keep the essentials close."
+  },
+  {
+    "name": "enhancements/library-aisle.webp",
+    "source": "https://images.unsplash.com/photo-1507738978512-35798112892c?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-PAPER DIRECTORY-Learn from the shape of the exam."
+  },
+  {
+    "name": "enhancements/live-learning-room.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Unique new Stackly academic website image. Young adult Indian woman attending an online exam preparation lesson on her laptop with headphones, taking notes at a tidy cream and oak study desk, landscape editorial photo. Muted navy, cream and teal, realistic people and anatomy, natural daylight, no readable text, no logos, no watermark.",
+    "placement": "hero-LIVE CLASSES-Learn together. Move forward."
+  },
+  {
+    "name": "enhancements/morning-reading.webp",
+    "source": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "cta-Make your next question a good one."
+  },
+  {
+    "name": "enhancements/study-library.webp",
+    "source": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-THE PREPARATION JOURNAL-Ideas for the way you learn."
+  },
+  {
+    "name": "enhancements/learning-books.webp",
+    "source": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-STRATEGY / JOURNAL-A study plan you can actually stay with"
+  },
+  {
+    "name": "enhancements/creative-planning.webp",
+    "source": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-CONTACT STACKLY-A good question is a good beginning."
+  },
+  {
+    "name": "enhancements/reading-break.webp",
+    "source": "https://images.unsplash.com/photo-1519682577862-22b62b24e493?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-LEGAL / SAMPLE-Privacy Policy"
+  },
+  {
+    "name": "enhancements/preparation-desk.webp",
+    "source": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1100&q=80&fm=webp",
+    "license": "Unsplash License — https://unsplash.com/license",
+    "placement": "hero-LEGAL / SAMPLE-Terms & Conditions"
+  },
+  {
+    "name": "enhancements/path-banking.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. A young adult Indian woman in a navy blouse studying banking quantitative aptitude at an oak desk, calculator, notebook and textbooks. Warm bright library, vertical portrait editorial photography. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage exam pathway card"
+  },
+  {
+    "name": "enhancements/path-ssc.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. A young adult Indian man in a cream shirt revising general knowledge with colorful restrained sticky-note tabs in a quiet academic library, vertical editorial photograph. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage exam pathway card"
+  },
+  {
+    "name": "enhancements/path-railways.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. Two young adult Indian students solving a reasoning exercise together with a notebook and geometry sketch at a sunlit campus desk, vertical editorial photograph. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage exam pathway card"
+  },
+  {
+    "name": "enhancements/path-engineering.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. Indian young adult engineering aspirant studying beside a small physics model and mathematics notebook in a modern academic laboratory, vertical editorial photograph. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage exam pathway card"
+  },
+  {
+    "name": "enhancements/approach-teaching.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. An Indian woman academic tutor patiently explaining a mathematical concept to two young adult students at a library table, premium natural editorial photography, landscape. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage Stackly approach card"
+  },
+  {
+    "name": "enhancements/approach-roadmap.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. Close editorial view of a young adult student creating a tidy weekly study timetable in a notebook with pencil, open books and laptop nearby, natural daylight, landscape. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage Stackly approach card"
+  },
+  {
+    "name": "enhancements/approach-analysis.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. Indian young adult student thoughtfully reviewing a practice answer sheet beside a laptop at a bright oak desk, focused analytical learning mood, landscape editorial photography. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage Stackly approach card"
+  },
+  {
+    "name": "enhancements/approach-support.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Use case: photorealistic-natural. Asset type: unique photograph for Stackly academic website. Friendly academic mentor and young adult Indian woman learner discussing a notebook at a calm campus library table, supportive education scene, landscape editorial photograph. Warm cream, muted navy and teal academic palette. Realistic anatomy and skin, tasteful uncluttered composition, no legible text, no logos, no watermark.",
+    "placement": "Main homepage Stackly approach card"
+  },
+  {
+    "name": "enhancements/ambition-study.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Premium photorealistic study-planning workspace in a warm modern university library. Open revision notebook, navy books, fountain pen and reading lamp on the right; spacious shadowed navy library on the left for white text."
+  },
+  {
+    "name": "enhancements/pathway-banking-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Banking exam aspirant practicing quantitative aptitude in a library. Premium academic editorial photography, warm natural light, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/pathway-ssc-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "SSC exam aspirant revising reasoning and English in a campus library. Premium academic editorial photography, warm natural light, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/pathway-railways-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Railway exam aspirants studying technical diagrams together. Premium academic editorial photography, warm natural light, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/pathway-engineering-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Engineering entrance aspirant studying physics and mathematics with a circuit model. Premium academic editorial photography, warm natural light, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/subject-quantitative-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Mathematics workbook, calculator and pencil on an academic study desk. Premium realistic editorial photography, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/subject-reasoning-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Geometric puzzle blocks, pattern tiles and a reasoning notebook. Premium realistic editorial photography, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/subject-english-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Literature books and fountain pen in a quiet library. Premium realistic editorial photography, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/subject-physics-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "Optics prism and circuit instruments on a physics study desk. Premium realistic editorial photography, navy teal and gold palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/status-404-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "An open book in a quiet university library with a bright doorway. Premium academic editorial photography, navy teal and warm cream palette, no readable text or logos."
+  },
+  {
+    "name": "enhancements/status-coming-new.webp",
+    "source": "Built-in image_gen tool",
+    "license": "AI-generated original asset",
+    "prompt": "A welcoming modern academic learning studio prepared for students. Premium academic editorial photography, navy teal and warm cream palette, no readable text or logos."
+  }
+]

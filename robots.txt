@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+# Replace the example hostname and repository path before launch.
+Sitemap: https://example.com/aurevia/sitemap.xml

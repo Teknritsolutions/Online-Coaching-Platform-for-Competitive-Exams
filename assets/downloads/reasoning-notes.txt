@@ -1,0 +1,11 @@
+LOGICAL THINKING
+Original Aurevia sample learning notes
+
+For a number series, check differences, ratios, and alternating rules.
+Example: 3, 7, 15, 31 -> multiply by 2 and add 1 -> 63.
+
+For direction questions, sketch the route and label distances.
+A route 4 km north and 3 km east has a displacement of 5 km.
+
+Do not assume the reverse of a statement.
+All roses are flowers does not mean all flowers are roses.

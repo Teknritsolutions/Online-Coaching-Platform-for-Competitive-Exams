@@ -1,0 +1,11 @@
+{
+  "name": "aurevia-academy",
+  "version": "1.2.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node tests/audit.mjs"
+  }
+}

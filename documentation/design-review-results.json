@@ -1,0 +1,18 @@
+{
+  "paragraphSize": "16px",
+  "pagesChecked": 64,
+  "paragraphsChecked": 541,
+  "mismatches": [],
+  "hover": {
+    "before": "rgb(237, 245, 243)",
+    "after": "rgb(8, 119, 111)"
+  },
+  "cardAlignment": {
+    "featureHeights": [
+      468,
+      468,
+      468,
+      468
+    ]
+  }
+}
