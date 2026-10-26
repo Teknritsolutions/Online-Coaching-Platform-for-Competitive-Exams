@@ -12,7 +12,7 @@ npm start
 
 Open **http://127.0.0.1:4173/**. On Windows with blocked PowerShell scripts, use `npm.cmd start` or `node scripts/serve.mjs`.
 
-The root index redirects to `pages/index.html`. Use an HTTP server; JavaScript modules are not supported by most browsers under `file://`.
+The root index renders the full homepage directly, with relative links resolved through `pages/`. Use an HTTP server; JavaScript modules are not supported by most browsers under `file://`.
 
 ## Explore
 

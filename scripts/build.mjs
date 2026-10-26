@@ -1078,7 +1078,10 @@ for (const [role, items] of Object.entries(rolePages)) {
 }
 fs.writeFileSync(
   "index.html",
-  '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Aurevia Academy</title><meta http-equiv="refresh" content="0;url=pages/index.html"><link rel="icon" href="assets/images/favicon.svg"></head><body><a href="pages/index.html">Open Aurevia Academy</a></body></html>\n',
+  fs.readFileSync("pages/index.html", "utf8").replace(
+    /<head>/i,
+    '<head>\n    <base href="./pages/" />',
+  ),
 );
 fs.writeFileSync(
   "sitemap.xml",

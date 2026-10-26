@@ -24,7 +24,7 @@ function syncNavigation() {
   if (file === "faculty-details.html") file = "faculty.html";
   if (file === "blog-details.html") file = "blog.html";
   for (const a of nav.querySelectorAll("a")) {
-    const match = new URL(a.href).pathname === new URL(file, location.href).pathname;
+    const match = new URL(a.href).pathname === new URL(file, document.baseURI).pathname;
     if (match) a.setAttribute("aria-current", "page");
     else a.removeAttribute("aria-current");
   }
